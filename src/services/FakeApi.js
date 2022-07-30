@@ -13,8 +13,6 @@ const userMock = {
   id: null,
 };
 
-//baseUrl
-// const baseUrl = "https://apicapstonejson.herokuapp.com";
 const baseUrl = "https://doe-vida-api2.herokuapp.com";
 
 //save token in localStorage
